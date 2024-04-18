@@ -1,0 +1,6 @@
+# .gitignore
+.idea/
+/target/
+.classpath
+bin/
+.metadata/
